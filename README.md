@@ -1,2 +1,1 @@
-# ad_interns
-Central repo for all commits from internship work
+https://arxiv.org/abs/1808.10393
